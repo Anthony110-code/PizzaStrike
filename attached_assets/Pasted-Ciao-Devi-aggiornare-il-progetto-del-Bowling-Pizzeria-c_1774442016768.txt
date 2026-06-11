@@ -1,0 +1,98 @@
+Ciao! Devi aggiornare il progetto del Bowling Pizzeria con queste modifiche:
+
+## 🍕 MENU
+Sostituisci il menu attuale con questo (con prezzi aggiornati):
+
+### 🍟 Antipasti
+- Patatine fritte → 3,50€
+- Patatine cheddar e bacon → 5,00€
+- Nuggets (6 pezzi) → 4,50€
+- Alette di pollo BBQ (8 pezzi) → 6,00€
+- Anelli di cipolla → 3,50€
+- Mix fritto → 8,00€
+
+### 🍕 Pizze classiche
+- Margherita → 5,50€
+- Marinara → 5,00€
+- Prosciutto cotto → 7,00€
+- Diavola → 7,50€
+- Capricciosa → 8,50€
+- Quattro formaggi → 8,00€
+- Vegetariana → 7,50€
+
+### 🍕 Pizze speciali
+- Bowling Special → 8,50€
+- Americana → 9,00€
+- BBQ Chicken → 9,50€
+- Carbonara → 9,50€
+- Burrata e crudo → 10,50€
+
+### 🍰 Dolci
+- Tiramisù → 4,00€
+- Cheesecake → 4,50€
+- Brownie → 5,00€
+- Gelato → 3,50€
+
+### 🥤 Bevande
+- Acqua → 1,00€
+- Coca-Cola → 2,00€
+- Aranciata → 2,00€
+- Sprite → 2,00€
+- Bibite lattina assortite → 2,50€
+- Birra piccola → 3,00€
+- Birra media → 4,50€
+- Cocktail base → 6,00€
+- Energy drink → 3,50€
+
+---
+
+## 🖼️ IMMAGINI
+Per ogni prodotto aggiungi immagini realistiche real food (alta qualità), stile:
+- pizza reale fotografata
+- fritti realistici
+- bevande branded realistiche
+
+Le immagini devono essere visibili nel menu.
+
+---
+
+## 🎳 FUNZIONALITÀ OBBLIGATORIE
+
+Devi creare 3 pulsanti funzionanti:
+
+### 1️⃣ PRENOTAZIONE VELOCE
+- Permette di scegliere:
+  - giorno
+  - orario
+  - pista
+- Deve essere semplice e immediato
+- Nessuna attesa o pagina lenta
+
+### 2️⃣ ORDINA DALLA PISTA
+- L’utente deve poter aprire il menù dal telefono
+- Ordinare cibo e bevande direttamente dalla pista
+- L’ordine viene inviato al sistema cucina
+
+### 3️⃣ TRACCIA L’ORDINE
+- Mostra lo stato dell’ordine in tempo reale:
+  - ricevuto
+  - in preparazione
+  - pronto
+  - in consegna / consegnato
+- Aggiornamento live o quasi live
+
+---
+
+## 🕒 ORARI STRUTTURA
+
+Imposta gli orari del bowling così:
+
+- Lunedì → Giovedì: 19:00 – 01:00  
+- Venerdì → Domenica: 19:00 – 02:00  
+
+Il sistema deve bloccare prenotazioni fuori orario.
+
+---
+
+## 🎯 OBIETTIVO
+Deve sembrare una vera app moderna da bowling/pizzeria, fluida, veloce e utilizzabile da tel

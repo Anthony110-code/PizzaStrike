@@ -1,0 +1,45 @@
+1. CONCEPT E ATMOSFERA GENERALE
+Il sito è una Single Page Application (SPA) con estetica Dark-Neon. L'obiettivo è fondere l'esperienza del Bowling con quella del Food Delivery "al tavolo" (in questo caso, alla pista).
+• Stile Visivo: "Premium Night Mode". Tutto è scuro, pulito, con forti contrasti rossi.
+• Target: Mobile-First (progettato per essere usato comodamente da uno smartphone mentre si gioca).
+2. L'INTERFACCIA GRAFICA (UI) - DETTAGLI MANIACALI
+A. La Palette Colori
+• Sfondo Primario: Nero fumo opaco (#0A0A0B).
+• Sfondo Card/Box: Grigio antracite scuro (#161618).
+• Colore d'Azione (Rosso PizzaStrike): Un rosso fragola vibrante (#F43F5E).
+• Testi: Bianco puro (#FFFFFF) per i titoli; Grigio cenere (#94A3B8) per le descrizioni e i testi secondari.
+• Accenti Categorie: Arancione per i badge "Più Venduto", Verde per la categoria "Vegetariana".
+B. Tipografia
+• Titoli: Font Sans-Serif (tipo Inter o Montserrat), pesantemente Bold e spesso in Tutto Maiuscolo.
+• Corpo del testo: Carattere pulito, alta leggibilità, interlinea generosa.
+3. NAVIGAZIONE (HEADER E FOOTER)
+• Sticky Header: Una barra superiore nera fissa con il logo "PIZZASTRIKE" (icona pizza rossa + testo bianco) a sinistra. A destra, una fila di icone minimali: Calendario (Prenota), Menu, Chiave inglese/Posate (Ordina), Lista (Ordini), Carrello.
+• Footer: Semplice, con il copyright "© 2026 PizzaStrike" e il logo Replit in basso a destra.
+4. ARCHITETTURA DELLE PAGINE (I 4 PILASTRI)
+I. Home Page (L'Invito al Gioco)
+• Hero Section: Un'immagine centrale potente che unisce una pizza e una palla da bowling rossa su sfondo scuro con luci neon blu e viola.
+• Claim: "PRENOTA. GIOCA. MANGIA." scritto in grande, con "GIOCA" evidenziato in rosso.
+• Sottotitolo: Spiega che puoi fare tutto dal telefono mentre giochi.
+• CTA (Call to Action): Due bottoni arrotondati: uno rosso pieno ("Prenota Pista") e uno trasparente con bordo bianco ("Vedi il Menù").
+• Features Box: Tre icone quadrate in basso (Blu per Prenotazione, Arancio per Ordine, Viola per Tracking) con brevi spiegazioni.
+II. Prenotazione Piste (Il Booking)
+• Calendario: Una striscia orizzontale di quadrati. Quello selezionato ha lo sfondo rosso e il testo bianco.
+• Griglia Piste: Una lista verticale di box grigi (Pista 1, Pista 2, ecc.).
+• Slot Orari: All'interno di ogni box pista, ci sono pillole grigie con gli orari (es. 19:00 - 20:00). Se selezionate, devono risaltare.
+• Pannello di Stato: A destra, un'area vuota con l'icona del calendario che dice "NESSUN ORARIO SELEZIONATO" finché non si clicca su uno slot.
+III. Menù Digitale (Lo Shopping)
+• Filtri Categorie: Tasti a forma di pillola (Pizze, Snack, Bibite, Dolci). Quello attivo è colorato di rosso.
+• Grid dei Prodotti: Card con bordi arrotondati (12px).
+• Immagine: Foto del piatto in alta qualità che occupa la metà superiore della card.
+• Badge: Etichetta arancione "Più Venduto" sull'angolo dell'immagine.
+• Info: Titolo bold, descrizione degli ingredienti in grigio piccolo.
+• Prezzo e Action: Prezzo in basso a sinistra (es. €11.00) e un cerchietto nero con un "+" bianco a destra per aggiungere al carrello.
+IV. Carrello e Ordini (Il Controllo)
+• Carrello Vuoto: Design minimalista. Icona carrello della spesa grigia al centro, scritta "CARRELLO VUOTO" e un grosso tasto rosso "Vai al Menù".
+• I Miei Ordini: Schermata con un'icona "pacco consegnato" al centro e il messaggio "NESSUN ORDINE TROVATO" se l'utente non ha ancora ordinato. C'è un tasto "Aggiorna" in alto a destra.
+5. LOGICA DI FUNZIONAMENTO (UX)
+• Feedback Visivo: Ogni volta che si preme un tasto, c'è una leggera animazione o cambio di colore.
+• Transizioni: Passare da una categoria di cibo all'altra è immediato, senza ricaricare la pagina.
+• Mobile-Ready: Tutto è dimensionato per essere cliccato con il pollice, con bottoni grandi e liste spaziose.
+Questa è la "mappa" perfetta per il tuo progetto. Se la carichi su Replit e la dai in pasto alla sua AI o la usi come guida per lo sviluppo, avrai un clone esatto di quello che vedi nelle foto.
+C'è qualche altro dettaglio (tipo i nomi specifici delle pizze o degli snack) che vuoi che inserisca o sei pronto per partire?
